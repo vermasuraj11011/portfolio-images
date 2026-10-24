@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <defs>
+    <linearGradient id="g" gradientUnits="userSpaceOnUse" x1="820" y1="180" x2="1460" y2="720"><stop offset="0" stop-color="#ff2d75"/><stop offset="1" stop-color="#b54bff"/></linearGradient>
+    <linearGradient id="gt" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff2d75"/><stop offset="1" stop-color="#b54bff"/></linearGradient>
+    <radialGradient id="glow1" cx="0.85" cy="0.1" r="0.6"><stop offset="0" stop-color="#ff2d75" stop-opacity="0.28"/><stop offset="1" stop-color="#ff2d75" stop-opacity="0"/></radialGradient>
+    <radialGradient id="glow2" cx="0.1" cy="0.95" r="0.6"><stop offset="0" stop-color="#b54bff" stop-opacity="0.25"/><stop offset="1" stop-color="#b54bff" stop-opacity="0"/></radialGradient>
+    <pattern id="dots" width="40" height="40" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.6" fill="#ffffff" fill-opacity="0.06"/></pattern>
+  </defs>
+  <rect width="1600" height="900" fill="#0b0b0f"/>
+  <rect width="1600" height="900" fill="url(#dots)"/>
+  <rect width="1600" height="900" fill="url(#glow1)"/>
+  <rect width="1600" height="900" fill="url(#glow2)"/>
+  <text x="120" y="300" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="30" letter-spacing="8" fill="#a6a6b2">AI × SECURITY</text>
+  <text x="112" y="520" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="230" font-weight="800" fill="url(#gt)">10</text>
+  <rect x="120" y="575" width="90" height="8" rx="4" fill="url(#gt)"/>
+  <text x="120" y="650" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="3" fill="#f3f3f7">INCIDENT RESPONSE</text>
+  <text x="120" y="700" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="24" letter-spacing="2" fill="#a6a6b2">PART 10 OF 10</text>
+  <line x1="880" y1="520" x2="1460" y2="520" stroke="#2a2a36" stroke-width="7" stroke-linecap="round"/>
+      <line x1="880" y1="520" x2="1170" y2="520" stroke="url(#g)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+      <circle cx="880" cy="520" r="22" fill="url(#g)"/>
+        <text x="880" y="470" font-family="Menlo, 'SF Mono', Consolas, monospace" font-size="26" fill="#f3f3f7" text-anchor="middle">Detect</text><circle cx="1025" cy="520" r="22" fill="url(#g)"/>
+        <text x="1025" y="600" font-family="Menlo, 'SF Mono', Consolas, monospace" font-size="26" fill="#f3f3f7" text-anchor="middle">Assess</text><circle cx="1170" cy="520" r="22" fill="url(#g)"/>
+        <text x="1170" y="470" font-family="Menlo, 'SF Mono', Consolas, monospace" font-size="26" fill="#f3f3f7" text-anchor="middle">Contain</text><circle cx="1315" cy="520" r="16" fill="#2a2a36"/>
+        <text x="1315" y="600" font-family="Menlo, 'SF Mono', Consolas, monospace" font-size="26" fill="#a6a6b2" text-anchor="middle">Patch</text><circle cx="1460" cy="520" r="16" fill="#2a2a36"/>
+        <text x="1460" y="470" font-family="Menlo, 'SF Mono', Consolas, monospace" font-size="26" fill="#a6a6b2" text-anchor="middle">Verify</text>
+      <path d="M1110 330 a60 60 0 0 1 120 0 v40 h-120 z" fill="#ff4d4d" fill-opacity="0.25" stroke="#ff4d4d" stroke-width="5"/>
+      <rect x="1095" y="370" width="150" height="22" rx="8" fill="#ff4d4d"/>
+      <path d="M1080 270 l-25 -25 M1170 245 v-35 M1260 270 l25 -25" stroke="#ff4d4d" stroke-width="6" stroke-linecap="round"/>
+</svg>

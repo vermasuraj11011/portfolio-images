@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <defs>
+    <linearGradient id="g" gradientUnits="userSpaceOnUse" x1="820" y1="180" x2="1460" y2="720"><stop offset="0" stop-color="#ff2d75"/><stop offset="1" stop-color="#b54bff"/></linearGradient>
+    <linearGradient id="gt" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff2d75"/><stop offset="1" stop-color="#b54bff"/></linearGradient>
+    <radialGradient id="glow1" cx="0.85" cy="0.1" r="0.6"><stop offset="0" stop-color="#ff2d75" stop-opacity="0.28"/><stop offset="1" stop-color="#ff2d75" stop-opacity="0"/></radialGradient>
+    <radialGradient id="glow2" cx="0.1" cy="0.95" r="0.6"><stop offset="0" stop-color="#b54bff" stop-opacity="0.25"/><stop offset="1" stop-color="#b54bff" stop-opacity="0"/></radialGradient>
+    <pattern id="dots" width="40" height="40" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.6" fill="#ffffff" fill-opacity="0.06"/></pattern>
+  </defs>
+  <rect width="1600" height="900" fill="#0b0b0f"/>
+  <rect width="1600" height="900" fill="url(#dots)"/>
+  <rect width="1600" height="900" fill="url(#glow1)"/>
+  <rect width="1600" height="900" fill="url(#glow2)"/>
+  <text x="120" y="300" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="30" letter-spacing="8" fill="#a6a6b2">AI × SECURITY</text>
+  <text x="112" y="520" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="230" font-weight="800" fill="url(#gt)">05</text>
+  <rect x="120" y="575" width="90" height="8" rx="4" fill="url(#gt)"/>
+  <text x="120" y="650" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="3" fill="#f3f3f7">SECURING RAG</text>
+  <text x="120" y="700" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="24" letter-spacing="2" fill="#a6a6b2">PART 5 OF 10</text>
+  <path d="M880 170 h110 l40 40 v150 h-150 z" fill="#15151c" stroke="#2f2f3c" stroke-width="5" stroke-linejoin="round"/>
+      <rect x="902" y="240" width="100" height="12" rx="6" fill="#3a3a48"/><rect x="902" y="270" width="80" height="12" rx="6" fill="#3a3a48"/><rect x="902" y="300" width="105" height="12" rx="6" fill="#3a3a48"/><path d="M880 365 h110 l40 40 v150 h-150 z" fill="#15151c" stroke="#ff4d4d" stroke-width="5" stroke-linejoin="round"/>
+      <rect x="902" y="435" width="100" height="12" rx="6" fill="#ff4d4d99"/><rect x="902" y="465" width="80" height="12" rx="6" fill="#ff4d4d99"/><rect x="902" y="495" width="105" height="12" rx="6" fill="#ff4d4d99"/><path d="M880 560 h110 l40 40 v150 h-150 z" fill="#15151c" stroke="#2f2f3c" stroke-width="5" stroke-linejoin="round"/>
+      <rect x="902" y="630" width="100" height="12" rx="6" fill="#3a3a48"/><rect x="902" y="660" width="80" height="12" rx="6" fill="#3a3a48"/><rect x="902" y="690" width="105" height="12" rx="6" fill="#3a3a48"/>
+      <path d="M1060 265 C1140 265 1140 450 1200 450 M1060 460 H1200 M1060 655 C1140 655 1140 450 1200 450" stroke="url(#g)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+      <rect x="1210" y="350" width="200" height="200" rx="30" fill="#1d1424" stroke="url(#g)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+      <line x1="1250" y1="320" x2="1250" y2="350" stroke="url(#g)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" fill="none"/><line x1="1250" y1="550" x2="1250" y2="580" stroke="url(#g)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" fill="none"/><line x1="1310" y1="320" x2="1310" y2="350" stroke="url(#g)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" fill="none"/><line x1="1310" y1="550" x2="1310" y2="580" stroke="url(#g)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" fill="none"/><line x1="1370" y1="320" x2="1370" y2="350" stroke="url(#g)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" fill="none"/><line x1="1370" y1="550" x2="1370" y2="580" stroke="url(#g)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+      <text x="1262" y="466" font-family="Menlo, 'SF Mono', Consolas, monospace" font-size="46" fill="#f3f3f7" font-weight="700">LLM</text>
+</svg>

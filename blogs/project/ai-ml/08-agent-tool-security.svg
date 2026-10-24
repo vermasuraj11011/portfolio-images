@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <defs>
+    <linearGradient id="g" gradientUnits="userSpaceOnUse" x1="820" y1="180" x2="1460" y2="720"><stop offset="0" stop-color="#ff2d75"/><stop offset="1" stop-color="#b54bff"/></linearGradient>
+    <linearGradient id="gt" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff2d75"/><stop offset="1" stop-color="#b54bff"/></linearGradient>
+    <radialGradient id="glow1" cx="0.85" cy="0.1" r="0.6"><stop offset="0" stop-color="#ff2d75" stop-opacity="0.28"/><stop offset="1" stop-color="#ff2d75" stop-opacity="0"/></radialGradient>
+    <radialGradient id="glow2" cx="0.1" cy="0.95" r="0.6"><stop offset="0" stop-color="#b54bff" stop-opacity="0.25"/><stop offset="1" stop-color="#b54bff" stop-opacity="0"/></radialGradient>
+    <pattern id="dots" width="40" height="40" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.6" fill="#ffffff" fill-opacity="0.06"/></pattern>
+  </defs>
+  <rect width="1600" height="900" fill="#0b0b0f"/>
+  <rect width="1600" height="900" fill="url(#dots)"/>
+  <rect width="1600" height="900" fill="url(#glow1)"/>
+  <rect width="1600" height="900" fill="url(#glow2)"/>
+  <text x="120" y="300" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="30" letter-spacing="8" fill="#a6a6b2">AI × SECURITY</text>
+  <text x="112" y="520" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="230" font-weight="800" fill="url(#gt)">08</text>
+  <rect x="120" y="575" width="90" height="8" rx="4" fill="url(#gt)"/>
+  <text x="120" y="650" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="3" fill="#f3f3f7">AGENT TOOL SECURITY</text>
+  <text x="120" y="700" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="24" letter-spacing="2" fill="#a6a6b2">PART 8 OF 10</text>
+  <rect x="900" y="300" width="300" height="250" rx="50" fill="#15151c" stroke="url(#g)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="1050" y1="300" x2="1050" y2="240" stroke="url(#g)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" fill="none"/><circle cx="1050" cy="226" r="16" fill="url(#g)"/>
+    <circle cx="990" cy="410" r="24" fill="url(#g)"/><circle cx="1110" cy="410" r="24" fill="url(#g)"/>
+    <rect x="980" y="480" width="140" height="14" rx="7" fill="#a6a6b2"/>
+    <rect x="1290" y="400" width="160" height="140" rx="22" fill="#1d1424" stroke="url(#g)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M1320 400 v-50 a50 50 0 0 1 100 0 v50" stroke="url(#g)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <circle cx="1370" cy="460" r="16" fill="url(#g)"/><line x1="1370" y1="470" x2="1370" y2="505" stroke="url(#g)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <path d="M1210 425 H1270" stroke="#a6a6b2" stroke-width="5" stroke-dasharray="10 10"/>
+    <circle cx="1240" cy="640" r="34" stroke="url(#g)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" fill="none"/><path d="M1274 640 H1400 M1360 640 v30 M1390 640 v24" stroke="url(#g)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+</svg>

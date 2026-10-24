@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <defs>
+    <linearGradient id="g" gradientUnits="userSpaceOnUse" x1="820" y1="180" x2="1460" y2="720"><stop offset="0" stop-color="#ff2d75"/><stop offset="1" stop-color="#b54bff"/></linearGradient>
+    <linearGradient id="gt" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff2d75"/><stop offset="1" stop-color="#b54bff"/></linearGradient>
+    <radialGradient id="glow1" cx="0.85" cy="0.1" r="0.6"><stop offset="0" stop-color="#ff2d75" stop-opacity="0.28"/><stop offset="1" stop-color="#ff2d75" stop-opacity="0"/></radialGradient>
+    <radialGradient id="glow2" cx="0.1" cy="0.95" r="0.6"><stop offset="0" stop-color="#b54bff" stop-opacity="0.25"/><stop offset="1" stop-color="#b54bff" stop-opacity="0"/></radialGradient>
+    <pattern id="dots" width="40" height="40" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.6" fill="#ffffff" fill-opacity="0.06"/></pattern>
+  </defs>
+  <rect width="1600" height="900" fill="#0b0b0f"/>
+  <rect width="1600" height="900" fill="url(#dots)"/>
+  <rect width="1600" height="900" fill="url(#glow1)"/>
+  <rect width="1600" height="900" fill="url(#glow2)"/>
+  <text x="120" y="300" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="30" letter-spacing="8" fill="#a6a6b2">AI × SECURITY</text>
+  <text x="112" y="520" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="230" font-weight="800" fill="url(#gt)">07</text>
+  <rect x="120" y="575" width="90" height="8" rx="4" fill="url(#gt)"/>
+  <text x="120" y="650" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="3" fill="#f3f3f7">ML SUPPLY CHAIN</text>
+  <text x="120" y="700" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="24" letter-spacing="2" fill="#a6a6b2">PART 7 OF 10</text>
+  <path d="M1180 230 L1380 340 V560 L1180 670 L980 560 V340 Z" fill="#15151c" stroke="url(#g)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M980 340 L1180 450 L1380 340 M1180 450 V670" stroke="url(#g)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <path d="M1180 520 l50 90 h-100 z" fill="#ff4d4d" fill-opacity="0.2" stroke="#ff4d4d" stroke-width="5" stroke-linejoin="round"/>
+    <text x="1180" y="600" font-family="Menlo, 'SF Mono', Consolas, monospace" font-size="40" fill="#ff4d4d" font-weight="700" text-anchor="middle">!</text>
+    <rect x="820" y="250" width="90" height="56" rx="28" stroke="url(#g)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" fill="none"/><rect x="820" y="400" width="90" height="56" rx="28" stroke="url(#g)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" fill="none"/><rect x="820" y="550" width="90" height="56" rx="28" stroke="url(#g)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <path d="M910 278 C950 278 950 340 980 360 M910 428 H980 M910 578 C950 578 950 540 980 530" stroke="#a6a6b2" stroke-width="4" fill="none" stroke-dasharray="10 10"/>
+    <text x="1080" y="760" font-family="Menlo, 'SF Mono', Consolas, monospace" font-size="34" fill="#a6a6b2" >model.pkl</text>
+</svg>

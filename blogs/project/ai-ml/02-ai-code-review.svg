@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <defs>
+    <linearGradient id="g" gradientUnits="userSpaceOnUse" x1="820" y1="180" x2="1460" y2="720"><stop offset="0" stop-color="#ff2d75"/><stop offset="1" stop-color="#b54bff"/></linearGradient>
+    <linearGradient id="gt" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff2d75"/><stop offset="1" stop-color="#b54bff"/></linearGradient>
+    <radialGradient id="glow1" cx="0.85" cy="0.1" r="0.6"><stop offset="0" stop-color="#ff2d75" stop-opacity="0.28"/><stop offset="1" stop-color="#ff2d75" stop-opacity="0"/></radialGradient>
+    <radialGradient id="glow2" cx="0.1" cy="0.95" r="0.6"><stop offset="0" stop-color="#b54bff" stop-opacity="0.25"/><stop offset="1" stop-color="#b54bff" stop-opacity="0"/></radialGradient>
+    <pattern id="dots" width="40" height="40" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.6" fill="#ffffff" fill-opacity="0.06"/></pattern>
+  </defs>
+  <rect width="1600" height="900" fill="#0b0b0f"/>
+  <rect width="1600" height="900" fill="url(#dots)"/>
+  <rect width="1600" height="900" fill="url(#glow1)"/>
+  <rect width="1600" height="900" fill="url(#glow2)"/>
+  <text x="120" y="300" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="30" letter-spacing="8" fill="#a6a6b2">AI × SECURITY</text>
+  <text x="112" y="520" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="230" font-weight="800" fill="url(#gt)">02</text>
+  <rect x="120" y="575" width="90" height="8" rx="4" fill="url(#gt)"/>
+  <text x="120" y="650" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="3" fill="#f3f3f7">AI CODE REVIEW</text>
+  <text x="120" y="700" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="24" letter-spacing="2" fill="#a6a6b2">PART 2 OF 10</text>
+  <rect x="880" y="190" width="560" height="520" rx="28" fill="#15151c" stroke="#2a2a36" stroke-width="3"/>
+    <text x="920" y="262" font-family="Menlo, 'SF Mono', Consolas, monospace" font-size="34" fill="#3ddc97" font-weight="700">+</text><rect x="960" y="240" width="300" height="16" rx="8" fill="#3ddc9788"/><text x="920" y="318" font-family="Menlo, 'SF Mono', Consolas, monospace" font-size="34" fill="#3a3a48" font-weight="700"> </text><rect x="960" y="296" width="240" height="16" rx="8" fill="#3a3a48"/><text x="920" y="374" font-family="Menlo, 'SF Mono', Consolas, monospace" font-size="34" fill="#ff4d4d" font-weight="700">-</text><rect x="960" y="352" width="280" height="16" rx="8" fill="#ff4d4d88"/><text x="920" y="430" font-family="Menlo, 'SF Mono', Consolas, monospace" font-size="34" fill="#3ddc97" font-weight="700">+</text><rect x="960" y="408" width="200" height="16" rx="8" fill="#3ddc9788"/><text x="920" y="486" font-family="Menlo, 'SF Mono', Consolas, monospace" font-size="34" fill="#3a3a48" font-weight="700"> </text><rect x="960" y="464" width="320" height="16" rx="8" fill="#3a3a48"/><text x="920" y="542" font-family="Menlo, 'SF Mono', Consolas, monospace" font-size="34" fill="#3ddc97" font-weight="700">+</text><rect x="960" y="520" width="260" height="16" rx="8" fill="#3ddc9788"/>
+    <path d="M1180 500 h220 a26 26 0 0 1 26 26 v100 a26 26 0 0 1 -26 26 h-150 l-40 40 v-40 h-30 a26 26 0 0 1 -26 -26 v-100 a26 26 0 0 1 26 -26 z" fill="#1d1424" stroke="url(#g)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M1240 560 l14 -30 l14 30 l30 14 l-30 14 l-14 30 l-14 -30 l-30 -14 z" fill="url(#g)"/>
+    <rect x="1310" y="556" width="90" height="12" rx="6" fill="#a6a6b2"/><rect x="1310" y="590" width="60" height="12" rx="6" fill="#3a3a48"/>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <defs>
+    <linearGradient id="g" gradientUnits="userSpaceOnUse" x1="820" y1="180" x2="1460" y2="720"><stop offset="0" stop-color="#ff2d75"/><stop offset="1" stop-color="#b54bff"/></linearGradient>
+    <linearGradient id="gt" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff2d75"/><stop offset="1" stop-color="#b54bff"/></linearGradient>
+    <radialGradient id="glow1" cx="0.85" cy="0.1" r="0.6"><stop offset="0" stop-color="#ff2d75" stop-opacity="0.28"/><stop offset="1" stop-color="#ff2d75" stop-opacity="0"/></radialGradient>
+    <radialGradient id="glow2" cx="0.1" cy="0.95" r="0.6"><stop offset="0" stop-color="#b54bff" stop-opacity="0.25"/><stop offset="1" stop-color="#b54bff" stop-opacity="0"/></radialGradient>
+    <pattern id="dots" width="40" height="40" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.6" fill="#ffffff" fill-opacity="0.06"/></pattern>
+  </defs>
+  <rect width="1600" height="900" fill="#0b0b0f"/>
+  <rect width="1600" height="900" fill="url(#dots)"/>
+  <rect width="1600" height="900" fill="url(#glow1)"/>
+  <rect width="1600" height="900" fill="url(#glow2)"/>
+  <text x="120" y="300" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="30" letter-spacing="8" fill="#a6a6b2">AI × SECURITY</text>
+  <text x="112" y="520" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="230" font-weight="800" fill="url(#gt)">09</text>
+  <rect x="120" y="575" width="90" height="8" rx="4" fill="url(#gt)"/>
+  <text x="120" y="650" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="3" fill="#f3f3f7">PATCH TRIAGE</text>
+  <text x="120" y="700" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="24" letter-spacing="2" fill="#a6a6b2">PART 9 OF 10</text>
+  <path d="M1000 210 L1150 260 V420 C1150 520 1080 590 1000 630 C920 590 850 520 850 420 V260 Z" fill="#1d1424" stroke="url(#g)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M935 420 L985 470 L1075 370" stroke="#3ddc97" stroke-width="14" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="1210" y="250" width="230" height="70" rx="35" fill="#15151c" stroke="#2a2a36" stroke-width="3"/>
+      <circle cx="1250" cy="285" r="12" fill="#3ddc97"/><text x="1280" y="296" font-family="Menlo, 'SF Mono', Consolas, monospace" font-size="32" fill="#f3f3f7" >8.5.12</text><rect x="1210" y="350" width="230" height="70" rx="35" fill="#15151c" stroke="#2a2a36" stroke-width="3"/>
+      <circle cx="1250" cy="385" r="12" fill="#3ddc97"/><text x="1280" y="396" font-family="Menlo, 'SF Mono', Consolas, monospace" font-size="32" fill="#f3f3f7" >8.4.27</text><rect x="1210" y="450" width="230" height="70" rx="35" fill="#15151c" stroke="#2a2a36" stroke-width="3"/>
+      <circle cx="1250" cy="485" r="12" fill="#3ddc97"/><text x="1280" y="496" font-family="Menlo, 'SF Mono', Consolas, monospace" font-size="32" fill="#f3f3f7" >8.3.36</text><rect x="1210" y="550" width="230" height="70" rx="35" fill="#15151c" stroke="#2a2a36" stroke-width="3"/>
+      <circle cx="1250" cy="585" r="12" fill="#3ddc97"/><text x="1280" y="596" font-family="Menlo, 'SF Mono', Consolas, monospace" font-size="32" fill="#f3f3f7" >8.2.35</text>
+</svg>
